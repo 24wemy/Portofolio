@@ -15446,7 +15446,7 @@ function Kx() {
                     children: [k.jsx("div", {
                         className: "caret"
                     }), k.jsx("h3", {
-                        children: "Ogi Wemy Corinta"
+                        children: "OGI WEMY CORINTA"
                     }), k.jsx(Fx, {})]
                 }), k.jsx(yv, {
                     text: "Resume",
