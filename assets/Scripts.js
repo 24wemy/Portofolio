@@ -15451,7 +15451,7 @@ function Kx() {
                 }), k.jsx(yv, {
                     text: "Resume",
                     onClick: ()=>{
-                        window.open("https://drive.google.com/file/d/1kHM-UN6HSv6F2rcn1x0E_THLlOu-ddWl/view?usp=sharing", "_blank")
+                        window.open("https://drive.google.com/file/d/1UgiUf1iFCpV0onxxa-4dxFfHAXq-qV6D/view?usp=sharing", "_blank")
                     }
                     ,
                     mainRef: e
