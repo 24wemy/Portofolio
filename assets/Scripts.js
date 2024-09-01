@@ -9623,11 +9623,11 @@ const dv = [{
     live: void 0,
     repository: "https://github.com/24wemy/bike-share.git",
 }, {
-    title: "React-URL-Router",
-    desc: "This is a simple project that uses React Router to manage navigation in a front-end web application.",
-    techs: ['ReactJs', 'Html'],
+    title: "Fine Tuning LLM",
+    desc: "This repository contains the code for fine-tuning a Large Language Model (LLM) using the Universitas Klabat Academic Guidebook dataset. The fine-tuning process is conducted on Google Colab, utilizing the unsloth library, and the resulting model is pushed to Hugging Face.",
+    techs: ['Python', 'Natural Language Processing', 'Google Colab', 'unsloth', 'Hugging Face'],
     live: void 0,
-    repository: "https://github.com/24wemy/React-URL-Router.git"
+    repository: "https://github.com/24wemy/llm_finetuning_klaris"
 }, {
     title: "Chatbot_demo",
     desc: "A web application that uses a chatbot as customer service for a restaurant.",
@@ -9641,11 +9641,11 @@ const dv = [{
     live: void 0,
     repository: "https://github.com/24wemy/s1_theology.git",
 }, {
-    title: "social-media",
-    desc: "The web animation layout containing personal social media.",
-    techs: ['JavaScripts', 'Html', 'Css'],
+    title: "STT-LLM-TTS",
+    desc: "This project aims to create a sophisticated voice assistant that can interact with users through natural language. By using advanced models like Whisper for ASR (Automatic Speech Recognition), Phi-3-mini for natural language understanding and generation, and MMS-TTS for text-to-speech, the assistant can handle complex queries and respond appropriately.",
+    techs: ['Large Language Model', 'Text-To-Speech', 'Python', 'Automatic Speech Recognition', 'Natural Language Understanding'],
     live: void 0,
-    repository: "https://github.com/24wemy/social-media.git",
+    repository: "https://github.com/24wemy/STT-LLM-TTS",
 }]
   , Xh = ({badge: e})=>k.jsx("div", {
     className: "border-orange-main border-[1px] px-2 rounded-xl flex items-center justify-center",
@@ -15379,7 +15379,14 @@ k.jsx("div", {
     position: "scholarship",
     period: "Apr 2023 - Now",
     tech: ['Public Relation', 'Team Work', 'Critical Thinking']
-}, ]
+}, {
+    company: "PT. Klabat Tekno Perkasa",
+    position: "AI Researcher",
+    period: "jul 2024 - Now",
+    tech: ['LLM', 'Artificial intelligence', 'Python', 'PyTorch', 'Data Analysis',]
+
+},
+ ]
   , $x = "_container_1osp9_1"
   , Wx = "_experience_1osp9_8"
   , Df = {
