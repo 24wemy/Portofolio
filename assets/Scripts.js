@@ -15388,7 +15388,7 @@ k.jsx("div", {
 }, {
     company: "PT. Klabat Tekno Perkasa",
     position: "AI Researcher",
-    period: "jul 2024 - Now",
+    period: "Jul 2024 - Now",
     tech: ['LLM', 'Artificial intelligence', 'Python', 'PyTorch', 'Data Analysis',]
 
 },
