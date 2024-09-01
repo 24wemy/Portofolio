@@ -15479,7 +15479,7 @@ function Kx() {
                             children: "About."
                         }), k.jsxs("p", {
                             className: "w-3/4 text-zinc-200",
-                            children: ["I am a Computer Engineering student at Universitas Klabat, currently in my 7th semester. I am passionate about learning and working with", " ", k.jsx("span", {
+                            children: ["I am a Computer Science student at Universitas Klabat, currently in my 7th semester. I am passionate about learning and working with", " ", k.jsx("span", {
                                 className: "font-mono text-sm font-bold text-orange-main",
                                 children: "machine learning and artificial intelligence (AI)"
                             }), " ", " and I am dedicated to expanding my knowledge and skills in these fields. My career aspiration is to become an AI Engineer, where I aim to develop innovative and impactful technology solutions. I am enthusiastic about leveraging my technical expertise to solve complex problems and contribute to advancements in AI and machine learning."]
