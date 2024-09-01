@@ -9623,6 +9623,12 @@ const dv = [{
     live: void 0,
     repository: "https://github.com/24wemy/bike-share.git",
 }, {
+    title: "YogaScan",
+    desc: "A collaborative project focused on developing YogaScan, an Android application that leverages machine learning for pose detection and utilizes Google Cloud for backend services.",
+    techs: ['Machine Learning', 'Android', 'Google Cloud'],
+    live: void 0,
+    repository: "https://github.com/Yogascan",
+},{
     title: "Fine Tuning LLM",
     desc: "This repository contains code for fine-tuning a Large Language Model (LLM) on the Universitas Klabat Academic Guidebook dataset using Google Colab and the unsloth library, with the model hosted on Hugging Face.",
     techs: ['Python', 'Natural Language Processing', 'Google Colab', 'unsloth', 'Hugging Face'],
