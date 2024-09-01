@@ -9643,7 +9643,7 @@ const dv = [{
 }, {
     title: "STT-LLM-TTS",
     desc: "This project develops an advanced voice assistant that uses Whisper for ASR, Phi-3-mini for NLU, and MMS-TTS for text-to-speech to handle and respond to complex user queries.",
-    techs: ['Large Language Model', 'Text-To-Speech', 'Python', 'Automatic Speech Recognition', 'Natural Language Understanding'],
+    techs: ['Large Language Model', 'Text-To-Speech', 'Python', 'Automatic Speech Recognition', ],
     live: void 0,
     repository: "https://github.com/24wemy/STT-LLM-TTS",
 }]
