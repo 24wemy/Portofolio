@@ -9624,7 +9624,7 @@ const dv = [{
     repository: "https://github.com/24wemy/bike-share.git",
 }, {
     title: "Fine Tuning LLM",
-    desc: "This repository contains the code for fine-tuning a Large Language Model (LLM) using the Universitas Klabat Academic Guidebook dataset. The fine-tuning process is conducted on Google Colab, utilizing the unsloth library, and the resulting model is pushed to Hugging Face.",
+    desc: "This repository contains code for fine-tuning a Large Language Model (LLM) on the Universitas Klabat Academic Guidebook dataset using Google Colab and the unsloth library, with the model hosted on Hugging Face.",
     techs: ['Python', 'Natural Language Processing', 'Google Colab', 'unsloth', 'Hugging Face'],
     live: void 0,
     repository: "https://github.com/24wemy/llm_finetuning_klaris"
@@ -9642,7 +9642,7 @@ const dv = [{
     repository: "https://github.com/24wemy/s1_theology.git",
 }, {
     title: "STT-LLM-TTS",
-    desc: "This project aims to create a sophisticated voice assistant that can interact with users through natural language. By using advanced models like Whisper for ASR (Automatic Speech Recognition), Phi-3-mini for natural language understanding and generation, and MMS-TTS for text-to-speech, the assistant can handle complex queries and respond appropriately.",
+    desc: "This project develops an advanced voice assistant that uses Whisper for ASR, Phi-3-mini for NLU, and MMS-TTS for text-to-speech to handle and respond to complex user queries.",
     techs: ['Large Language Model', 'Text-To-Speech', 'Python', 'Automatic Speech Recognition', 'Natural Language Understanding'],
     live: void 0,
     repository: "https://github.com/24wemy/STT-LLM-TTS",
